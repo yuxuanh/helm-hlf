@@ -60,4 +60,12 @@ docker pull mirror.baidubce.com/hyperledger/fabric-peer:2.2.2
 docker pull mirror.baidubce.com/couchdb:3.1.1
 ```
 
+* fabric and couchdb version mapping
+
 ![image-20230815154227571](.\fabric-couchdb-version-mapping.jpg)
+
+* fabric order/peer/ca version mapping
+
+  https://www.ibm.com/docs/en/blockchain-platform/2.5.3?topic=help-release-notes#05-05-2021
+
+  ![image-20230815164747568](.\fabric-ca-order-peer-version-mapping.jpg)
