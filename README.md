@@ -60,4 +60,4 @@ docker pull mirror.baidubce.com/hyperledger/fabric-peer:2.2.2
 docker pull mirror.baidubce.com/couchdb:3.1.1
 ```
 
-![image-20230815154227571](.\fabric-couchdb-version-mapping)
+![image-20230815154227571](.\fabric-couchdb-version-mapping.jpg)
